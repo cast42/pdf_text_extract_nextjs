@@ -1,0 +1,5 @@
+{
+  "name": "PDF Word Counter",
+  "description": "Upload a PDF file to extract its text content and see a real-time word count. Ideal for quickly analyzing text-based documents without manual counting.",
+  "requestFramePermissions": []
+}
